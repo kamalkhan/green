@@ -1,5 +1,5 @@
 {
-  "name": "bubble",
+  "name": "green",
   "version": "0.1.1",
   "description": "Neatly construct nodejs console arguments as an object.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kamalkhan/bubble.git"
+    "url": "https://github.com/kamalkhan/green.git"
   },
   "keywords": [
     "console",
@@ -19,7 +19,7 @@
   "author": "Kamal Khan <shout@bhittani.com> (http://bhittani.com/)",
   "license": "MIT License",
   "bugs": {
-    "url": "https://github.com/kamalkhan/bubble/issues"
+    "url": "https://github.com/kamalkhan/green/issues"
   },
-  "homepage": "https://github.com/kamalkhan/bubble"
+  "homepage": "https://github.com/kamalkhan/green"
 }
