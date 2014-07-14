@@ -1,0 +1,25 @@
+{
+  "name": "bubble",
+  "version": "0.1.0",
+  "description": "Neatly construct nodejs console arguments as an object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamalkhan/bubble.git"
+  },
+  "keywords": [
+    "console",
+    "terminal",
+    "arguments",
+    "argv"
+  ],
+  "author": "Kamal Khan <shout@bhittani.com> (http://bhittani.com/)",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/kamalkhan/bubble/issues"
+  },
+  "homepage": "https://github.com/kamalkhan/bubble"
+}
