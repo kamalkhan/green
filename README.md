@@ -1,11 +1,11 @@
-Bubble
+Green
 =========
 
 Neatly construct nodejs console arguments as an object.
 
 ## Installation
 
-  npm install bubble --save
+  `npm install green --save`
 
 ## Usage
 
@@ -21,10 +21,11 @@ Neatly construct nodejs console arguments as an object.
        - integer and string parsing is maintained
        - use -option without post value to set it to true.
 
-    var bubble = require('bubble').args;
-    console.log(bubble);
+    var green = require('green').args;
+    console.log(green);
 
 ## Release History
 
-* 0.1.0 Initial release
+* 0.1.2 Change module name
 * 0.1.1 Reflect readme with details
+* 0.1.0 Initial release
