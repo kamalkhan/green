@@ -1,6 +1,6 @@
 {
   "name": "bubble",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Neatly construct nodejs console arguments as an object.",
   "main": "index.js",
   "scripts": {

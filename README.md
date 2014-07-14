@@ -27,3 +27,4 @@ Neatly construct nodejs console arguments as an object.
 ## Release History
 
 * 0.1.0 Initial release
+* 0.1.1 Reflect readme with details
